@@ -19,12 +19,13 @@ Skills: Python/React/Java/Spring Boot
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GITGunawardhana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishantharindu98/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/g.ishantharindu8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@IshanTharindu8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/ishantharindu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20005288)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITGunawardhana)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GITGunawardhana&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GITGunawardhana&show_icons=true&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITGunawardhana&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/GITGunawardhana)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GITGunawardhana)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GITGunawardhana&theme=chartreuse-dark)  
 
 ![Profile views](https://gpvc.arturio.dev/GITGunawardhana)  

@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ishan Tharindu
 #### An undergraduate at Uva Wellassa University
-I'm Ishan Tharindu from Sri Lanka, and I do content on Development. I really enjoy learning languages and frameworks like React and Spring Boot. I also enjoy wireframing, ui design in general.
+I'm Ishan Tharindu from Sri Lanka, and I do content on Development. I really enjoy learning languages and frameworks like React and Spring Boot. I also enjoy ui design in general.
 
 - 🌱 I’m currently learning Spring Boot and Flutter 
 - 💬 Ask me about Python and React 

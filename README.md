@@ -28,14 +28,14 @@ I'm Ishan Tharindu from Sri Lanka, and I do content on Development. I really enj
 <a href="https://dev.to/ishantharindu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ishantharindu" height="30" width="40" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GITGunawardhana&show_icons=true&theme=darcula )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitgunawardhana&show_icons=true&theme=darcula )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITGunawardhana&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitgunawardhana&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/GITGunawardhana)  
+![GitHub metrics](https://metrics.lecoq.io/gitgunawardhana)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GITGunawardhana&theme=darcula)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gitgunawardhana&theme=darcula)  
 
-![Profile views](https://gpvc.arturio.dev/GITGunawardhana)  
+![Profile views](https://gpvc.arturio.dev/gitgunawardhana)  
 
 [![An image of @ishantharindu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishantharindu)](https://holopin.io/@ishantharindu)

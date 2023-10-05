@@ -37,3 +37,5 @@ I'm Ishan Tharindu from Sri Lanka, and I do content on Development. I really enj
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GITGunawardhana&theme=darcula)  
 
 ![Profile views](https://gpvc.arturio.dev/GITGunawardhana)  
+
+[![An image of @ishantharindu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishantharindu)](https://holopin.io/@ishantharindu)

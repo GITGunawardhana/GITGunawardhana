@@ -4,7 +4,7 @@
 I'm a highly motivated and detail-oriented freelance developer and undergraduate student, fueled by a passion for full-stack development. With a knack for the latest technologies and programming languages, I bring strong problem-solving abilities and valuable team collaboration experience to the table.
 
 - 📫 How to reach me: t.gunawardana864@gmail.com
-- 📄 Please have a look at my [Resume](https://ishantharindu.com/) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [Portfolio/Resume](https://ishantharindu.000webhostapp.com/) for more details about me. I'm open to feedback and suggestions!
 
 ## Skills and Experience
 <!---* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="13" height="13"/> React

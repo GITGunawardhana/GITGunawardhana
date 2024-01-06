@@ -53,7 +53,7 @@ I'm a highly motivated and detail-oriented freelance developer and undergraduate
 <a href="https://gitgunawardhana.github.io/modern-fashion-web-view/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/10408/10408896.png" alt="Project Icon" width="12" height="12"> Fashion World
 </a>&nbsp;
-<a href="https://gitgunawardhana.github.io/modern-fashion-web-view/" target="_blank">
+<a href="https://gitgunawardhana.github.io/real-time-chat-app/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/10408/10408896.png" alt="Project Icon" width="12" height="12"> Real Time Chat App
 </a>
 

@@ -43,9 +43,20 @@ I'm a highly motivated and detail-oriented freelance developer and undergraduate
 
 
 ## Sample Projects
-[Project 01](https://gitgunawardhana.github.io/dalle-clone/)&nbsp;
-[Project 02](https://gitgunawardhana.github.io/todo-app-mern/)&nbsp;
-[Project 03](https://gitgunawardhana.github.io/modern-fashion-web-view/)&nbsp;
+
+<a href="https://gitgunawardhana.github.io/dalle-clone/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/10408/10408896.png" alt="Project Icon" width="12" height="12"> Dalle-Clone
+</a>&nbsp;
+<a href="https://gitgunawardhana.github.io/todo-app-mern/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/10408/10408896.png" alt="Project Icon" width="12" height="12"> TaskWise
+</a>&nbsp;
+<a href="https://gitgunawardhana.github.io/modern-fashion-web-view/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/10408/10408896.png" alt="Project Icon" width="12" height="12"> Fashion World
+</a>&nbsp;
+<a href="https://gitgunawardhana.github.io/modern-fashion-web-view/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/10408/10408896.png" alt="Project Icon" width="12" height="12"> Real Time Chat App
+</a>
+
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">

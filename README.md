@@ -41,6 +41,12 @@ I'm a highly motivated and detail-oriented freelance developer and undergraduate
 ![RESTfulAPIs](https://img.shields.io/badge/-RESTfulAPIs-05122A?style=flat&logo=RESTfulAPIs)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
+## Sample Projects
+[Project 01](https://gitgunawardhana.github.io/dalle-clone/)&nbsp;
+[Project 02](https://gitgunawardhana.github.io/todo-app-mern/)&nbsp;
+[Project 03](https://gitgunawardhana.github.io/modern-fashion-web-view/)&nbsp;
+
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/ishantharindu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishantharindu98" height="30" width="40" /></a>
